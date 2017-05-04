@@ -1,24 +1,24 @@
 {
-  "name": "node-generator-sqilte3",
+  "name": "node-generator-sqlite3",
   "version": "1.0.0",
-  "description": "sqilte3 generator",
+  "description": "sqlite3 generator",
   "main": "index.js",
   "scripts": {
     "test": "node __test__/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mr-xhz/node-generator-sqilte3.git"
+    "url": "git+https://github.com/mr-xhz/node-generator-sqlite3.git"
   },
   "keywords": [
-    "node-generator-sqilte3"
+    "node-generator-sqlite3"
   ],
   "author": "xhz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mr-xhz/node-generator-sqilte3/issues"
+    "url": "https://github.com/mr-xhz/node-generator-sqlite3/issues"
   },
-  "homepage": "https://github.com/mr-xhz/node-generator-sqilte3#readme",
+  "homepage": "https://github.com/mr-xhz/node-generator-sqlite3#readme",
   "dependencies": {
     "sqlite3": "^3.1.8"
   }
